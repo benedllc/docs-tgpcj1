@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-w61dcb.qiraa.io/sitemap.xml
